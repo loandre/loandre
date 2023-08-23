@@ -14,7 +14,7 @@ I'm from Brazil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2Fin%2Floandre%2F-blue)](https://www.linkedin.com/in/loandre/)
 
 # 💻 Tech Stacks
-Here are the technologies I work with:
+Technologies I work with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-yellow)
