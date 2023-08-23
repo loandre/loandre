@@ -19,9 +19,10 @@ I'm from Brazil
 
 [![Email](https://img.shields.io/badge/Email-loandre.dev%40gmail.com-blue)](mailto:loandre.dev@gmail.com?subject=Hi%20Loandre,%0A%0AI%20found%20you%20on%20GitHub%20and%20wanted%20to%20reach%20out.)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2Fin%2Floandre%2F-blue)](https://www.linkedin.com/in/loandre/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/loandre) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/loandre)
 
 # 💻 Tech Stacks
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-yellow)
