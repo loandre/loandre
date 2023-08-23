@@ -2,7 +2,7 @@
 
 I'm from Brazil
 
-- 🧑‍💻 I’m currently working on Full Stack.
+- 🧑‍💻 Full Stack Developer.
 - 📚 I’m currently learning React.js and Node.js.
 - 💡 Computer Science enthusiast.
 - 👨‍🎓 I hold a degree in Law.
