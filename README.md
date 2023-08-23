@@ -1,11 +1,19 @@
+# Full Stack Developer
+
 ### Hello! I'm Loandre Campos 👋
 
 I'm from Brazil
 
-- 🧑‍💻 Full Stack Developer.
+
+## 🎯 Current Focus
+
+- 🧑‍💻 I'm actively working as a Full Stack Developer. 
 - 📚 I’m currently learning React.js and Node.js.
 - 💡 Computer Science enthusiast.
-- 👨‍🎓 I hold a degree in Law.
+
+## 🎓 Background
+
+- 👨‍🎓 Despite holding a degree in Law, my passion for coding has led me to make a career transition into the world of technology. My distinctive combination of legal and technical skills enables me to approach problem-solving with a fresh perspective.
 
 # 📫 Reach me on
 
