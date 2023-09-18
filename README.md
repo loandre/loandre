@@ -29,7 +29,5 @@ I'm from Brazil
 ![React](https://img.shields.io/badge/-React-blue)
 ![React Native](https://img.shields.io/badge/-React%20Native-yellow)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-yellow)
-![MongoDB](https://img.shields.io/badge/-MongoDB-blue)
 ![HTML](https://img.shields.io/badge/-HTML-yellow)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
