@@ -1,4 +1,4 @@
-# Full Stack Developer
+# Developer | Mobile & Web
 
 ## Hello! I'm Loandre Campos 👋
 
