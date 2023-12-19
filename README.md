@@ -1,4 +1,4 @@
-# Developer | Mobile & Web
+# FullStack Developer | Web & Mobile
 
 ## Hello! I'm Loandre Campos 👋
 
@@ -7,7 +7,7 @@ I'm from Brazil
 
 ## 🎯 Current Focus
 
-- 🧑‍💻 I'm actively working as a Mobile Developer. 
+- 🧑‍💻 I'm actively working as a Frontend Engineer at Madgic
 - 📚 I’m currently learning React.js and Dart.
 - 💡 Computer Science enthusiast.
 
