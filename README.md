@@ -7,9 +7,9 @@ I'm from Brazil
 
 ## 🎯 Current Focus
 
+- 💡 Software Engineering Postgraduate Student
 - 🧑‍💻 I'm actively working as a Frontend Engineer at Madgic
 - 📚 I’m currently learning Next.js and Typescript.
-- 💡 Computer Science enthusiast.
 
 ## 🎓 Background
 
