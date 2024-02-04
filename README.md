@@ -2,7 +2,7 @@
 
 ## Hello! I'm Loandre Campos 👋
 
-I'm from Brazil
+I'm from Brazil 🌎
 
 
 ## 🎯 Current Focus
