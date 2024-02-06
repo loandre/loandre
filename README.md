@@ -7,8 +7,8 @@
 
 ## 🎯 Current Focus
 
+- 🧑‍💻 Currently a Frontend Engineer at Madgic and Mobile Developer at 704 Apps.
 - 💡 Software Engineering Postgraduate Student
-- 🧑‍💻 I'm actively working as a Frontend Engineer at Madgic
 - 📚 I’m currently learning Next.js and Typescript.
 
 ## 🎓 Background
