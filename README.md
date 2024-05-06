@@ -4,7 +4,6 @@
 
 🌎 I'm from Brazil 
 
-
 ## 🎯 Current Focus
 
 - 🧑‍💻 Currently a Frontend Engineer and Mobile Developer at 704 Apps.
